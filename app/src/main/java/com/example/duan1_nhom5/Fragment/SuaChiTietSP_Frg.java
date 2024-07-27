@@ -8,13 +8,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.example.duan1_nhom5.Model.SanPham;
 import com.example.duan1_nhom5.R;
 
 
 public class SuaChiTietSP_Frg extends Fragment {
 
 
-    public SuaChiTietSP_Frg() {
+    public SuaChiTietSP_Frg(SanPham sanPham) {
         // Required empty public constructor
     }
 
